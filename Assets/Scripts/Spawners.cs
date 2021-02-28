@@ -111,7 +111,7 @@ public class Spawners : MonoBehaviour
         _enemyGun._shooting = false;
         _enemyCalled = false;
         _enemyGun._bulletsInChamber = 6;
-
+        _enemyGun._reloading = false;
         _enemy._health = 5;
 
     }

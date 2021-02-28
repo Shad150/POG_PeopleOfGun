@@ -28,8 +28,7 @@ public class EnemyWeapon : MonoBehaviour
     Transform _casingsSpawn;
 
     public float _bulletsInChamber;
-    [SerializeField]
-    bool _reloading;
+    public bool _reloading;
 
     public bool _shooting;
     public bool _playerAtRange;

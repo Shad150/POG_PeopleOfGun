@@ -5618,6 +5618,9 @@ MonoBehaviour:
     AMIN
 
 
+    JOSE
+
+
     LUIS
 
 
@@ -5627,14 +5630,14 @@ MonoBehaviour:
     JOHN
 
 
-    MIGUE ;)
+    MIGUE
+    ;)
 
 
 
 
 
-    EASTER
-    EGG EN EL MENU'
+    EASTER EGG EN EL MENU'
 --- !u!222 &1285808253
 CanvasRenderer:
   m_ObjectHideFlags: 0
